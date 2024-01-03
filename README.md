@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=rafiq-03&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rafiq-03&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)  
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmarzouk" alt="rmarzouk's 42 stats" /></a>

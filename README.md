@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
+
 <!--
 **rafiq-03/rafiq-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=rafiq-03&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rafiq-03&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmarzouk" alt="rmarzouk's 42 stats" /></a>

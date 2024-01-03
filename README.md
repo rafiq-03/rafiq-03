@@ -1,13 +1,7 @@
-![alt text](https://www.freepik.com/free-photo/3d-render-low-poly-plexus-design-network-communications_17560612.htm#query=technology%20wallpaper&position=49&from_view=keyword&track=ais&uuid=654063af-ea9a-473a-a2b3-f36e7349383f)
 
+# Hi! I'm happy to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-# Hi! I'm happy to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!--
-**rafiq-03/rafiq-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmarzouk" alt="rmarzouk's 42 stats" /></a>
 

@@ -2,7 +2,7 @@
 <h2>Hi, My name is Rafiq</h2>
 <div>Computer Science Student at 1337 Coding School (42 network) | Passionate About Innovation and Problem-Solving</div>
 <div>
-  <h3 color=3>42 profile:</h3>
+  <h3>42 profile:</h3>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rmarzouk" alt="rmarzouk's 42 stats" /></a>
   </p>
 </div>
